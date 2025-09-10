@@ -1,1 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/F_VR1znB)
+![POST /memes ](image.png)
+![GET /memes](image-1.png)
+![GET /memes?userId](image-2.png)
+![Host the API -render](image-3.png)
+![Api working](image-4.png)
